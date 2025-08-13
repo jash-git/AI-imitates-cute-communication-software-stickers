@@ -1,6 +1,7 @@
 AI 仿製可愛通訊軟體貼圖(AI imitates cute communication software stickers)
 
 資料來源: https://3c.ltn.com.tw/news/62802
+https://home.gamer.com.tw/creationDetail.php?sn=4591870 [第一次上架要3個星期等待審核?]
 https://creator.line.me/zh-hant/guideline/sticker/  ~ LINE 貼圖製作準則
 https://creator.line.me/  ~ LINE 貼圖上架登入/註冊
 
