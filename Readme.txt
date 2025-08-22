@@ -17,5 +17,8 @@ https://creator.line.me/  ~ LINE 貼圖上架登入/註冊
 ======================================
 
 上架成功資訊:
-	購買網址	https://line.me/S/sticker/31438017
-	貼圖作者網址	https://line.me/S/shop/sticker/author/5608293
+	購買網址:	https://line.me/S/sticker/31438017
+		    https://line.me/S/sticker/31467712
+	貼圖作者網址:	https://line.me/S/shop/sticker/author/5608293
+	
+	友人網址: https://store.line.me/stickershop/author/5618105/zh-Hant
