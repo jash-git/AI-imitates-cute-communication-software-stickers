@@ -3,6 +3,7 @@ AI 仿製可愛通訊軟體貼圖(AI imitates cute communication software sticke
 資料來源: https://3c.ltn.com.tw/news/62802
 https://home.gamer.com.tw/creationDetail.php?sn=4591870 [第一次上架要3個星期等待審核?]
 https://creator.line.me/zh-hant/guideline/sticker/  ~ LINE 貼圖製作準則
+https://vocus.cc/article/634d84eafd897800013769a6 [Line租稅協定申請教學]
 https://creator.line.me/  ~ LINE 貼圖上架登入/註冊
 
 步驟01. 要AI產生一張無版權的Q版貓頭鷹圖片 ~ 胖頭鷹家族日常[Daily life of the Fat Owl family]
