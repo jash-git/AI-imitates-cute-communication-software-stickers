@@ -1,6 +1,7 @@
 AI 仿製可愛通訊軟體貼圖(AI imitates cute communication software stickers)
 
 資料來源: https://3c.ltn.com.tw/news/62802
+https://applealmond.com/posts/290989 [Gemini Nano Banana 貼圖生成工具！一鍵生成多張自己的 Q 版角色]
 https://home.gamer.com.tw/creationDetail.php?sn=4591870 [第一次上架要3個星期等待審核?]
 https://creator.line.me/zh-hant/guideline/sticker/  ~ LINE 貼圖製作準則
 https://vocus.cc/article/634d84eafd897800013769a6 [Line租稅協定申請教學]
